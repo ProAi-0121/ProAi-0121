@@ -1,4 +1,4 @@
-<h1 align="center">I'm PRO Ai. Maybe I'm a Developer :></h1>
+<h1 align="center">I'm PRO Ai. i Guess I'm a Developer :></h1>
 
 ## Stuff i do
 - i Make Bots :) Discord, Whatsap, Telegram... (and more)
