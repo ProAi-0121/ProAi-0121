@@ -6,8 +6,8 @@
 ## 🛠️ What I Do
 - Make bots (Discord, WhatsApp, Telegram, and more)
 - Build Minecraft plugins & resource packs
-- Create automation tools & small applications
-- Mess around with video/photo editing sometimes
+- Create automation tools & applications
+- video editing sometimes :>
 
 ---
 
