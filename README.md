@@ -10,7 +10,7 @@
 
 ## Stuff i work with
 <a href="https://skillicons.dev">
-  <img height=80 src="https://skillicons.dev/icons?i=python,java,nodejs,js,html,css,php,aws,git,github,vscode,mysql,mongodb" />
+  <img height=80 src="https://skillicons.dev/icons?i=python,java,nodejs,js,html,css,php,aws,git,github,mysql,mongodb" />
 </a>
 
 ## Contact Me if You Need Meh :>
