@@ -31,45 +31,6 @@ Computer vision systems for PPE detection, unsafe work and workplace safety.
 
 ---
 
-# 🛠️ Tech Stack
-
-### 💻 Languages
-
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=plastic\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=plastic\&logo=c%2B%2B\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic\&logo=javascript\&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=plastic\&logo=typescript\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=plastic\&logo=python\&logoColor=ffdd54)
-
-### 🌐 Web & Backend
-
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic\&logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=plastic\&logo=react\&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=plastic\&logo=node.js\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-%23000000.svg?style=plastic\&logo=express\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=plastic\&logo=flask\&logoColor=white)
-
-### 🤖 Automation
-
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=plastic\&logo=selenium\&logoColor=white)
-![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=plastic\&logo=Puppeteer\&logoSize=auto\&logoColor=black)
-![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=plastic\&logo=playwright\&logoColor=white)
-
-### 🗄️ Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic\&logo=mysql\&logoColor=white)
-
-### 🔌 Hardware
-
-![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=plastic\&logo=Arduino\&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=plastic\&logo=espressif\&logoColor=white)
-
-
----
-
 # 🌐 Socials
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.gg/pro_ai)
