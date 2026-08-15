@@ -31,18 +31,6 @@ Computer vision systems for PPE detection, unsafe work and workplace safety.
 
 ---
 
-# 🧠 Areas I Like
-
-```text
-🤖 Automation          🌐 Web Development
-🧠 AI / Machine Learning
-👁️ Computer Vision     🎮 Minecraft
-🔌 IoT / ESP32         ⚙️ Developer Tools
-🐳 Self Hosting        🚀 Hackathons
-```
-
----
-
 # 🛠️ Tech Stack
 
 ### 💻 Languages
@@ -74,41 +62,11 @@ Computer vision systems for PPE detection, unsafe work and workplace safety.
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic\&logo=mongodb\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic\&logo=mysql\&logoColor=white)
 
-### 🐳 Tools & Infrastructure
-
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=plastic\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=plastic\&logo=docker\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=plastic\&logo=linux\&logoColor=black)
-
 ### 🔌 Hardware
 
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=plastic\&logo=Arduino\&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=plastic\&logo=espressif\&logoColor=white)
 
----
-
-# 🚀 Some Things I've Built
-
-### 🤖 Bots & Automation
-
-Discord bots, WhatsApp automation, browser automation, API-based tools and scripts that connect different services together.
-
-### 🦺 AI Safety Monitoring
-
-Computer vision projects focused on **PPE detection, unsafe behavior and industrial workplace monitoring**.
-
-### 🎮 Minecraft
-
-Minecraft plugins, resource packs, server utilities, bots and custom economy/automation systems.
-
-### 🎵 Desktop & Media Tools
-
-Various desktop utilities, Spotify-related projects, overlays, media tools and other experiments.
-
-### 🔌 IoT
-
-ESP32 projects involving **LEDs, audio, sensors and automation**.
 
 ---
 
@@ -159,27 +117,6 @@ If you've found one of my projects useful and want to support what I build:
 
 ---
 
-### 💭 Random Developer Thought
-
-```text
-Have an idea?
-    ↓
-Build it.
-    ↓
-It doesn't work.
-    ↓
-Google it.
-    ↓
-Still doesn't work.
-    ↓
-Ask AI.
-    ↓
-It works.
-    ↓
-"Wait... why does it work?"
-    ↓
-Ship it. 🚀
-```
 
 ---
 
