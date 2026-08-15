@@ -9,6 +9,7 @@ I like working with **bots, automation, web development, AI/ML, Minecraft relate
 
 ---
 
+
 # 💫 About Me
 
 * 🤖 build bots for **Discord, WhatsApp, Telegram & more**
@@ -24,10 +25,13 @@ I like working with **bots, automation, web development, AI/ML, Minecraft relate
 
 ---
 
+
 # 🔭 What I'm Currently Working On
 
 🦺 **AI-Based Industrial Safety Monitoring**
 Computer vision systems for PPE detection, unsafe work and workplace safety.
+
+---
 
 # 🐍 Contribution Graph
 
