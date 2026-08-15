@@ -1,0 +1,28 @@
+name: generate snake
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ProAi-0121
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=%23A855F7&color_dots=%2317152B,%234C1D95,%237C3AED,%23A855F7,%23D8B4FE
+
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
