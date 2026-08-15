@@ -93,7 +93,7 @@ Computer vision systems for PPE detection, unsafe work and workplace safety.
 
 # 🐍 Contribution Graph
 
-![Snake animation](https://raw.githubusercontent.com/ProAi-0121/ProAi-0121/output/github-contribution-grid-snake.svg)
+![My GitHub Game](game.gif)
 
 ---
 
