@@ -28,8 +28,7 @@ I like working with **bots, automation, web development, AI/ML, Minecraft relate
 
 # 🔭 What I'm Currently Working On
 
-🦺 **Random Stuff :>**
-Computer vision systems for PPE detection, unsafe work and workplace safety.
+**Random Stuff :>**
 
 ---
 
