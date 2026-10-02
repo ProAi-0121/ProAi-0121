@@ -28,7 +28,7 @@ I like working with **bots, automation, web development, AI/ML, Minecraft relate
 
 # 🔭 What I'm Currently Working On
 
-**Random Stuff :>**
+**ERA-LMS-AUTO-SOLVER**
 
 ---
 
