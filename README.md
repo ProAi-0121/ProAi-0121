@@ -30,6 +30,10 @@ I like working with **bots, automation, web development, AI/ML, Minecraft relate
 
 **ERA-LMS-AUTO-SOLVER (PUBLIC WEBSITE)**: anyone can, check the answers for all tests/quizes(verified by 4-5 Ai Models), can auto submit the answers for tests/quizes (logins using username and password)
 
+AND 
+
+**SattelitMap-Traffic-Simulation(interactive)**
+
 ---
 
 # 🐍 Contribution Graph
