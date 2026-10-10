@@ -15,7 +15,7 @@ I like working with **bots, automation, web development, AI/ML, Minecraft relate
 * 🤖 build bots for **Discord, WhatsApp, Telegram & more**
 * 🎮 Build **Minecraft plugins, bots & resource packs**
 * 🌐 Create **websites, web apps & dashboards**
-* ⚙️ Build **automation tools & applications**
+* ⚙️ Build **automation tools & applications** (ALOT)
 * 🧠 build with **AI, ML & Computer Vision**
 * 🔌 Build random **ESP32 / IoT projects**
 * 🎬 **video editing sometimes** :>
