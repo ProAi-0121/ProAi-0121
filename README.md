@@ -5,7 +5,7 @@
 I’m a Harsh Sonawane, a 19-year-old **Computer Engineering student and developer** who enjoys building things just because I can.
 Most of my projects start with a random idea and somehow turn into a full application :>
 
-I like working with **bots, automation, web development, AI/ML, Minecraft related stuff, and hardware/IoT** — basically anything that lets me build something useful (haha for just for fun).
+I like working with **bots, automation, web development, AI/ML, Minecraft related stuff, and hardware/IoT** — basically anything that lets me build something useful (haha just for fun).
 
 ---
 
