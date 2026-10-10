@@ -30,6 +30,11 @@ I like working with **bots, automation, web development, AI/ML, Minecraft relate
 
 **ERA-LMS-AUTO-SOLVER**: a public website anyone can use, check the answers for all upcomming/realtime/past tests/quizes(verified by 4-5 Ai Models), can auto submit the answers for ongoing tests/quizes (logins using username and password)
 
+AND
+
+**ERA-MKCL-DM-AUTO-COURSE**: a Auto Course completer for ERA MKCL Design Thinking course.... auto watches(skips) the videos, Completes the Knowledge Check(Quizes), Submits the Practice Assignment and Assignment PDF's 
+
+
 AND 
 
 **SattelitMap-Traffic-Simulation(interactive)**
