@@ -34,7 +34,6 @@ AND
 
 **ERA-MKCL-DM-AUTO-COURSE**: a Auto Course completer for ERA MKCL Design Thinking course.... auto watches(skips) the videos, Completes the Knowledge Check(Quizes), Submits the Practice Assignment and Assignment PDF's 
 
-
 AND 
 
 **SattelitMap-Traffic-Simulation(interactive)**
