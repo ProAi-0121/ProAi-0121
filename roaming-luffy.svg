@@ -1,0 +1,18 @@
+<svg xmlns="http://w3.org" viewBox="0 0 800 200" width="100%" height="200">
+  <defs>
+    <style>
+      @keyframes walkAround {
+        0% { transform: translate(0px, 20px); }
+        45% { transform: translate(650px, 20px) scaleX(1); }
+        50% { transform: translate(650px, 20px) scaleX(-1); } /* Flip to turn back */
+        95% { transform: translate(0px, 20px) scaleX(-1); }
+        100% { transform: translate(0px, 20px) scaleX(1); }
+      }
+      .character {
+        animation: walkAround 15s linear infinite;
+      }
+    </style>
+  </defs>
+
+  <image class="character" href="https://i.pinimg.com/originals/71/1e/ab/711eabdcb2a98390783f75007ff6895d.gif" height="80" width="80" />
+</svg>
