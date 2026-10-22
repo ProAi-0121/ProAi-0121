@@ -7,7 +7,7 @@ Most of my projects start with a random idea and somehow turn into a full applic
 
 I like working with **bots, automation, web development, AI/ML, Minecraft related stuff, and hardware/IoT** — basically anything that lets me build something useful (haha just for fun).
 
----
+https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif
 
 
 # 💫 About Me
@@ -23,7 +23,7 @@ I like working with **bots, automation, web development, AI/ML, Minecraft relate
 
 > **My favorite way to learn something is to build something with it.**
 
----
+https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif
 
 
 # 🔭 What I'm Currently Working On
