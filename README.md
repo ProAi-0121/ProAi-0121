@@ -10,6 +10,7 @@ I like working with **bots, automation, web development, AI/ML, Minecraft relate
 
 <img width="905" height="4" alt="animated-line-image-0153 (1)" src="https://github.com/user-attachments/assets/e7449bc2-ac8e-48e3-984e-61f48ee9f410" />
 
+<img src="./roaming-luffy.svg" width="100%" alt="Luffy roaming around" />
 
 # 💫 About Me
 
