@@ -1,7 +1,6 @@
-# 👋 Hey there!
+# 👋 Hey there! &emsp; <img width="200" height="200" alt="luffy STICKER (1)" src="https://github.com/user-attachments/assets/5844764b-90c5-4a15-83ee-3da7030d7654" />
 
-### 💻 Developer • Automation Enthusiast • Builder                                                                                        <img width="100" height="100" alt="luffy STICKER (1)" src="https://github.com/user-attachments/assets/5844764b-90c5-4a15-83ee-3da7030d7654" />
-
+### 💻 Developer • Automation Enthusiast • Builder
 
 I’m a Harsh Sonawane, a 19-year-old **Computer Engineering student and developer** who enjoys building things just because I can.
 Most of my projects start with a random idea and somehow turn into a full application :>
