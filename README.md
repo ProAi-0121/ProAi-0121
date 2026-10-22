@@ -28,13 +28,17 @@ I like working with **bots, automation, web development, AI/ML, Minecraft relate
 
 # 🔭 What I'm Currently Working On
 
+**ERA-MKCL-DM-AUTO-COURSE** (https://harsh.run.place/): a Auto Course completer for ERA MKCL Design Thinking course.... auto watches(skips) the videos, Completes the Knowledge Check(Quizes), Submits the Practice Assignment and Assignment PDF's 
+(Public soon)
+
+AND 
+
 **ERA-LMS-AUTO-SOLVER**: a public website anyone can use, check the answers for all upcomming/realtime/past tests/quizes(verified by 4-5 Ai Models), can auto submit/Sync the answers for ongoing tests/quizes using 3 Ai Models(logins using username and password)
 (Public soon)
 
 AND
 
-**ERA-MKCL-DM-AUTO-COURSE** (https://harsh.run.place/): a Auto Course completer for ERA MKCL Design Thinking course.... auto watches(skips) the videos, Completes the Knowledge Check(Quizes), Submits the Practice Assignment and Assignment PDF's 
-(Public soon)
+**ERA-LMS-LOOKUP**: 💀
 
 AND 
 
