@@ -38,7 +38,7 @@ AND
 
 AND
 
-**ERA-LMS-LOOKUP**: 💀
+**ERA-LMS-USERNAME-LOOKUP**: 💀
 
 AND 
 
