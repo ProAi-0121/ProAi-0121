@@ -23,7 +23,7 @@ https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif
 
 > **My favorite way to learn something is to build something with it.**
 
-https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif
+https://www.animatedimages.org/img-animated-line-image-0379-106327.htm#linkit
 
 
 # 🔭 What I'm Currently Working On
