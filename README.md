@@ -1,4 +1,4 @@
-# 👋 Hey there! &emsp; <img width="200" height="200" alt="luffy STICKER (1)" src="https://github.com/user-attachments/assets/5844764b-90c5-4a15-83ee-3da7030d7654" />
+# 👋 Hey there! <img align="right" width="200" height="200" alt="luffy STICKER (1)" src="https://github.com/user-attachments/assets/5844764b-90c5-4a15-83ee-3da7030d7654" />
 
 ### 💻 Developer • Automation Enthusiast • Builder
 
