@@ -7,7 +7,8 @@ Most of my projects start with a random idea and somehow turn into a full applic
 
 I like working with **bots, automation, web development, AI/ML, Minecraft related stuff, and hardware/IoT** — basically anything that lets me build something useful (haha just for fun).
 
-<img width="965" height="5" alt="line" src="https://github.com/user-attachments/assets/d4fc26b0-2737-4037-acdb-3b52ce5e9201" />
+<img width="932" height="24" alt="animated-line-image-0068" src="https://github.com/user-attachments/assets/2aa2411f-b80c-4ddf-8060-f0498ddd420f" />
+
 
 
 # 💫 About Me
