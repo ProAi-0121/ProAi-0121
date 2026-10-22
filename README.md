@@ -1,14 +1,13 @@
 # 👋 Hey there!
 <img align="right" width="200" height="200" alt="luffy STICKER (1)" src="https://github.com/user-attachments/assets/5844764b-90c5-4a15-83ee-3da7030d7654" />
 ### 💻 Developer • Automation Enthusiast • Builder
-<img width="505" height="8" alt="animated-line-image-0153 (1)" src="https://github.com/user-attachments/assets/ac999b63-e5d3-460a-9f33-83c0d3f3b1fe" />
 
 I’m a Harsh Sonawane, a 19-year-old **Computer Engineering student and developer** who enjoys building things just because I can.
 Most of my projects start with a random idea and somehow turn into a full application :>
 
 I like working with **bots, automation, web development, AI/ML, Minecraft related stuff, and hardware/IoT** — basically anything that lets me build something useful (haha just for fun).
 
-<img width="505" height="8" alt="animated-line-image-0153 (1)" src="https://github.com/user-attachments/assets/e7449bc2-ac8e-48e3-984e-61f48ee9f410" />
+<img width="905" height="4" alt="animated-line-image-0153 (1)" src="https://github.com/user-attachments/assets/e7449bc2-ac8e-48e3-984e-61f48ee9f410" />
 
 
 # 💫 About Me
@@ -24,7 +23,7 @@ I like working with **bots, automation, web development, AI/ML, Minecraft relate
 
 > **My favorite way to learn something is to build something with it.**
 
-<img width="505" height="8" alt="animated-line-image-0153 (1)" src="https://github.com/user-attachments/assets/e7449bc2-ac8e-48e3-984e-61f48ee9f410" />
+<img width="905" height="4" alt="animated-line-image-0153 (1)" src="https://github.com/user-attachments/assets/e7449bc2-ac8e-48e3-984e-61f48ee9f410" />
 
 
 # 🔭 What I'm Currently Working On
