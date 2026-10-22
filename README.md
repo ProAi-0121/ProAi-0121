@@ -1,5 +1,7 @@
 # 👋 Hey there!
-  <img align="right" width="200" height="200" alt="luffy STICKER (1)" src="https://github.com/user-attachments/assets/5844764b-90c5-4a15-83ee-3da7030d7654" />
+  <img align="right" width="112" height="112" alt="Happy Lesscketch Sticker" src="https://github.com/user-attachments/assets/e67e1446-190f-42e1-b8ad-bb274c4a337e" />
+
+  
 ### 💻 Developer • Automation Enthusiast • Builder
 
 I’m a Harsh Sonawane, a 19-year-old **Computer Engineering student and developer** who enjoys building things just because I can.
@@ -62,7 +64,6 @@ AND
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.gg/pro_ai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/harsh-sonawane-59a396273)
+<img width="112" height="112" alt="Happy Lesscketch Sticker" src="https://github.com/user-attachments/assets/cd0f3f7f-56de-4344-b5b6-6f14947a0c0b" />
+<img width="112" height="112" alt="Happy Lesscketch Sticker" src="https://github.com/user-attachments/assets/a98180a3-86d1-4c0e-ace1-c415fbe48d5e" />
 
-<img width="505" height="8" alt="animated-line-image-0153 (1)" src="https://github.com/user-attachments/assets/e7449bc2-ac8e-48e3-984e-61f48ee9f410" />
-
-[![](https://komarev.com/ghpvc/?username=ProAi-0121\&icon=10\&color=4)](https://visitcount.itsvg.in)
