@@ -1,4 +1,4 @@
-<img width="1080" height="720" alt="standard (1)" src="https://github.com/user-attachments/assets/7a9438be-e5b4-4718-b8ab-ec7e7be61f5a" />
+<img width="680" height="240" alt="standard" src="https://github.com/user-attachments/assets/84e97ab0-f0ff-4975-9c31-432a7f49d9a2" />
 
   
 ### 💻 Developer • Automation Enthusiast • Builder
