@@ -1,5 +1,4 @@
-<img width="680" height="240" alt="standard" src="https://github.com/user-attachments/assets/84e97ab0-f0ff-4975-9c31-432a7f49d9a2" />
-
+# 👋 Hey there!      <img align="right" width="112" height="112" alt="Happy Lesscketch Sticker" src="https://github.com/user-attachments/assets/e67e1446-190f-42e1-b8ad-bb274c4a337e" />
   
 ### 💻 Developer • Automation Enthusiast • Builder
 
