@@ -1,4 +1,4 @@
-# 👋 Hey there!      <img align="right" width="112" height="112" alt="Happy Lesscketch Sticker" src="https://github.com/user-attachments/assets/e67e1446-190f-42e1-b8ad-bb274c4a337e" />
+<img width="1080" height="720" alt="standard (1)" src="https://github.com/user-attachments/assets/7a9438be-e5b4-4718-b8ab-ec7e7be61f5a" />
 
   
 ### 💻 Developer • Automation Enthusiast • Builder
