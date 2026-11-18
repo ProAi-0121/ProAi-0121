@@ -38,11 +38,15 @@ AND
 
 AND
 
-**ERA-LMS-USERNAME-LOOKUP**: 💀
+**Fully Autonomus Ai Playing https://magicgarden.gg**:
 
 AND 
 
-**SattelitMap-Traffic-Simulation(interactive)**
+**API for Controlling Iphone using Shortcuts.**: 
+Current Features:
+- Normal Calls, Messages.
+- Whatsapp Calls, Messages.
+-  
 
 <img width="905" height="4" alt="animated-line-image-0153 (1)" src="https://github.com/user-attachments/assets/e7449bc2-ac8e-48e3-984e-61f48ee9f410" />
 
